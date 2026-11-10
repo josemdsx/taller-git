@@ -9,3 +9,4 @@ Proyecto de práctica para aprender control de versiones.
 - Perfil de ejemplo
 - Lecturas recomendadas
 - Editado desde GitHub
+- Segunda edición
