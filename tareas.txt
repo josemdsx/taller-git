@@ -4,3 +4,4 @@
 - Revisar diferencias antes de guardar
 - Practicar git reset
 - Practicar reset soft
+- Practicar amend
