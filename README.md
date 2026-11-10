@@ -8,3 +8,4 @@ Proyecto de práctica para aprender control de versiones.
 - Notas de Git
 - Perfil de ejemplo
 - Lecturas recomendadas
+- Editado desde GitHub
